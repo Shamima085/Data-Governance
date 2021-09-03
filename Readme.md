@@ -10,5 +10,5 @@ Currently, SneakerPark only supports sales within the United States.
 
 Below you can see a diagram that will hopefully help you visualize some of SneakerPark's business processes. Keep in mind that it does not capture ALL processes and every nuance, but simply serves as another artifact to use in your project.
 
-![Project Trough](./pic/data.png)
+![Project Trough](./data.png)
 
